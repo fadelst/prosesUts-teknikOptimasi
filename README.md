@@ -1,2 +1,2 @@
-# tugas1
+# UTS 1
 membuat populasi awal
