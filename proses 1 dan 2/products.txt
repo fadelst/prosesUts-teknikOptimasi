@@ -1,0 +1,5 @@
+Processor, 1300000
+Mainhoard, 650000
+Memori, 2240000
+VGA Card, 1500000
+Harddisk, 550000
